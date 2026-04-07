@@ -1,4 +1,7 @@
+
 # 📊 Amazon Sales Data Analysis Dashboard
+<img width="1536" height="1024" alt="ChatGPT Image Apr 7, 2026, 02_00_52 PM" src="https://github.com/user-attachments/assets/4005fd53-70e9-4013-be95-cf2bc9c46f69" />
+
 
 ## 🧠 Overview
 This project presents an interactive **Amazon Sales Dashboard** built using Power BI to analyze sales performance, customer behavior, and business trends.
