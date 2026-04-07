@@ -1,5 +1,7 @@
-[README_Amazon_Sales.md](https://github.com/user-attachments/files/26540489/README_Amazon_Sales.md)
+<img width="1536" height="1024" alt="ChatGPT Image Apr 7, 2026, 02_00_52 PM" src="https://github.com/user-attachments/assets/56bd95d4-a2c0-4ee0-87ea-ba20fef342f7" />[README_Amazon_Sales.md](https://github.com/user-attachments/files/26540489/README_Amazon_Sales.md)
 # 📦 Amazon Sales Analysis — Python EDA + Power BI Dashboard
+
+<img width="1536" height="1024" alt="ChatGPT Image Apr 7, 2026, 02_00_52 PM" src="https://github.com/user-attachments/assets/b938c664-85d9-4ca2-a408-cf4ce2682356" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -10,7 +12,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-00897B?style=for-the-badge"/>
 </p>
 
-> An end-to-end sales analytics project on Amazon global sales data — combining Python EDA and a 2-page Power BI dashboard to uncover revenue trends, profitability drivers, regional performance, and operational inefficiencies across 7 regions, 12 product categories, and multiple countries.
+> An end-to-end sales analytics project on Amazon global sales data — combining Python EDA and a 3-page Power BI dashboard to uncover revenue trends, profitability drivers, regional performance, and operational inefficiencies across 7 regions, 12 product categories, and multiple countries.
 
 ---
 
@@ -29,10 +31,17 @@ This project answers all of these questions using real sales data.
 ## 🖼️ Dashboard Preview
 
 ### Page 1 — Sales Overview
-![Amazon Sales Dashboard Page 1](screenshots/dashboard_page1.png)
+<img width="1356" height="759" alt="image" src="https://github.com/user-attachments/assets/6d7b3e97-a77b-4837-ab80-7f411024cf08" />
 
 ### Page 2 — Trends & Priority Analysis
-![Amazon Sales Dashboard Page 2](screenshots/dashboard_page2.png)
+<img width="1341" height="747" alt="image" src="https://github.com/user-attachments/assets/081f2c52-680e-4660-af48-1b3605415edb" />
+
+
+### Page 3  — Sales Performance Analysis
+<img width="1331" height="744" alt="image" src="https://github.com/user-attachments/assets/b8f490ca-a356-4a15-802f-ae2896fa41d6" />
+
+
+
 
 ---
 
@@ -48,7 +57,7 @@ amazon-sales-analysis/
 │   └── Analyzing_Amazon_Sales_data.ipynb  ← Python EDA (74 cells, 20 business questions)
 │
 ├── 📁 powerbi/
-│   └── Amazon_Sales_Dashboard.pbix   ← 2-page Power BI dashboard
+│   └── Amazon_Sales_Dashboard.pbix   ← 3-page Power BI dashboard
 │
 ├── 📁 screenshots/
 │   ├── dashboard_page1.png           ← Sales Overview dashboard
@@ -186,6 +195,16 @@ Business Insights & Recommendations
 - **Line Chart:** Units Sold trend from 2010–2017 showing fluctuation patterns
 - **Donut Chart:** Revenue breakdown by Item Type — Cosmetics = 26.65% share
 - **Clustered Bar Chart:** Order Priority count by Region (Critical/High/Medium/Low breakdown)
+
+- ### Page 3 – Sales Performance Analysis
+- **Region Table:** Regional comparison of Sum of Unit Price, with Sub-Saharan Africa leading at 9.35K
+- **Pie Chart:** Item Type contribution to Sum of Unit Price – Office Supplies holds the largest share at 28.24%, followed by Household and Cosmetics
+- **Stacked Column Chart:** Total Profit by Item Type and Sales Channel – Cosmetics is the most profitable category across Online and Offline sales
+- **Funnel Chart:** Total Cost by Item Type – Office Supplies, Household, and Cosmetics are the highest cost-driving categories
+- **Stacked Bar Chart:** Total Profit by Order Priority and Item Type – High priority orders contribute the highest profit, led mainly by Cosmetics and Household
+
+
+
 
 ---
 
