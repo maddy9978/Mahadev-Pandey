@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Apr 7, 2026, 02_00_52 PM" src="https://github.com/user-attachments/assets/56bd95d4-a2c0-4ee0-87ea-ba20fef342f7" />[README_Amazon_Sales.md](https://github.com/user-attachments/files/26540489/README_Amazon_Sales.md)
+ />[README_Amazon_Sales.md](https://github.com/user-attachments/files/26540489/README_Amazon_Sales.md)
 # 📦 Amazon Sales Analysis — Python EDA + Power BI Dashboard
 
 <img width="1536" height="1024" alt="ChatGPT Image Apr 7, 2026, 02_00_52 PM" src="https://github.com/user-attachments/assets/b938c664-85d9-4ca2-a408-cf4ce2682356" />
