@@ -32,14 +32,11 @@ Businesses often treat all customers the same — same discounts, same campaigns
 
 ## 🖼️ Dashboard Preview
 
-> 📸 *Add screenshots of your Power BI dashboard pages here*
+> 📸 <img width="1380" height="755" alt="image" src="https://github.com/user-attachments/assets/6fe85b03-d1b3-4fb5-9c00-5799e5b0ce71" />
 
-| Page | Preview |
-|---|---|
-| Executive Overview | `screenshots/01_overview.png` |
-| RFM Segmentation | `screenshots/02_rfm_segments.png` |
-| Purchase Trends | `screenshots/03_purchase_trends.png` |
-| Churn Risk Analysis | `screenshots/04_churn_risk.png` |
+
+
+
 
 ---
 
